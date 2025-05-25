@@ -24,16 +24,19 @@ This project aims to **predict the risk of heart disease** using a dataset of he
    cd heart-disease-risk-prediction
 
 2. Create a virtual environment and activate it:
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install the dependencies:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. Launch the Jupyter Notebook:
-jupyter notebook
+   ```bash
+   jupyter notebook
 
-5. Open the Heart_Disease_Prediction.ipynb file and run the cells to explore the project.
+6. Open the Heart_Disease_Prediction.ipynb file and run the cells to explore the project.
 
 ## Results
 
